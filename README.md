@@ -6,6 +6,6 @@ Mobile Flashcards App is application that allows users to study collections of f
 # How to install and launch this project
 
 To install and launch this project:
-* donload or clone this repository
+* download or clone this repository
 * install all project dependencies with `yarn`
 * start the development server with `expo start`
